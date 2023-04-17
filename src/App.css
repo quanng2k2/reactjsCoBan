@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.light {
+  background-color: rgb(234, 140, 156);
+  color: rgb(247, 238, 238);
+}
+
+.dark {
+  background-color: rgb(76, 225, 30);
+  color: rgb(20, 20, 20); 
+}
+
